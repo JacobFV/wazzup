@@ -1,0 +1,5 @@
+# Default configuration settings
+database_url: "postgresql://user:password@localhost/database"
+jwt_secret_key: "your-secret-key"
+jwt_algorithm: "HS256"
+jwt_expiration_minutes: 30
